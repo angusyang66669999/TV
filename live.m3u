@@ -6,6 +6,8 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English",Al Jazeera English
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English",Al Jazeera English
+https://epg.pw/stream/db814d86b7087eb2db861a406c8b0809a369f6d8a5146389932af3148c0c1091.m3u8
 
 #EXTINF:-1 tvg-name="BBC World News",BBC World News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
@@ -18,6 +20,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 tvg-name="CNN International",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
+https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/cnn-fast.m3u8
 #EXTINF:-1 tvg-name="CNN International",CNN International
@@ -47,6 +51,9 @@ https://t.freetv.fun/live/acnn.m3u8
 #EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/acnn-480p.m3u8
 
+#EXTINF:-1 tvg-name="ABC",ABC
+http://mytvstream.net:8080/live/30550113/30550113/120952.m3u8
+
 #EXTINF:-1 tvg-name="CNBC EN",CNBC EN
 https://t.freetv.fun/live/cnbc-asia.m3u8
 #EXTINF:-1 tvg-name="CNBC EN",CNBC EN
@@ -56,30 +63,18 @@ https://t.freetv.fun/live/cnbc.m3u8
 #EXTINF:-1 tvg-name="CNBC EN",CNBC EN
 https://t.freetv.fun/live/cnbc-tv18.m3u8
 
+#EXTINF:-1 tvg-name="CNA",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 #EXTINF:-1 tvg-name="Bloomberg",Bloomberg
-https://t.freetv.fun/live/bloomberg-ht-1.m3u8
+https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
 #EXTINF:-1 tvg-name="Bloomberg",Bloomberg
-https://t.freetv.fun/live/bloomberg.m3u8
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6465/index.m3u8
 #EXTINF:-1 tvg-name="Bloomberg",Bloomberg
-https://t.freetv.fun/live/bloomberg-tv-plus.m3u8
-#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
-https://t.freetv.fun/live/bloomberg-tv-plus-1.m3u8
-#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
-https://t.freetv.fun/live/bloomberg-tv-europe.m3u8
-#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
-https://t.freetv.fun/live/bloomberg-originals.m3u8
-#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
-https://t.freetv.fun/live/bloomberg-tv-us.m3u8
-#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
-https://t.freetv.fun/live/bloomberg-ht-2.m3u8
-#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
-https://t.freetv.fun/live/ch-ng-bloomberg.m3u8
-#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
-https://t.freetv.fun/live/bloomberg-tv-plus-1080p.m3u8
-#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
-https://t.freetv.fun/live/bloomberg-tv-europe-720p.m3u8
-#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
-https://t.freetv.fun/live/bloomberg-tv-asia-720p.m3u8
+https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
+
+#EXTINF:-1 tvg-name="FOXNews",FOXNews
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
 https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.ctv
@@ -94,29 +89,13 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/freetv-live/chinese
 https://t.freetv.fun/live/san-li-inews-10.m3u8
 #EXTINF:-1 tvg-name="三立新闻",三立新闻
 https://t.freetv.fun/live/san-li-inews-11.m3u8
-#EXTINF:-1 tvg-name="三立新闻",三立新闻
-https://t.freetv.fun/live/san-li-inews-12.m3u8
-#EXTINF:-1 tvg-name="三立新闻",三立新闻
-https://t.freetv.fun/live/san-li-inews-13.m3u8
-#EXTINF:-1 tvg-name="三立新闻",三立新闻
-https://t.freetv.fun/live/san-li-inews-9.m3u8
-#EXTINF:-1 tvg-name="三立新闻",三立新闻
-https://t.freetv.fun/live/san-li-inews-8.m3u8
-#EXTINF:-1 tvg-name="三立新闻",三立新闻
-https://t.freetv.fun/live/san-li-inews-7.m3u8
-#EXTINF:-1 tvg-name="三立新闻",三立新闻
-https://t.freetv.fun/live/san-li-inews-6.m3u8
-#EXTINF:-1 tvg-name="三立新闻",三立新闻
-https://t.freetv.fun/live/san-li-inews-5.m3u8
+
 
 #EXTINF:-1 tvg-name="中天新聞",中天新聞
 rtmp://123.156.165.47/live/yifatv-ztxw01
 #EXTINF:-1 tvg-name="中天新聞",中天新聞
 rtmp://123.156.165.47/live/yifatv-ztxw02
-#EXTINF:-1 tvg-name="中天新聞",中天新聞
-https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
-#EXTINF:-1 tvg-name="中天新聞",中天新聞
-https://t.freetv.fun/live/zhong-tian-xin-wen-20.m3u8
+
 
 #EXTINF:-1 tvg-name="中視新聞",中視新聞
 https://t.freetv.fun/live/zhong-shi-xin-wen.m3u8
@@ -124,66 +103,30 @@ https://t.freetv.fun/live/zhong-shi-xin-wen.m3u8
 https://t.freetv.fun/live/zhong-shi-xin-wen-1.m3u8
 #EXTINF:-1 tvg-name="中視新聞",中視新聞
 https://t.freetv.fun/live/zhong-shi-xin-wen-1-1.m3u8
-#EXTINF:-1 tvg-name="中視新聞",中視新聞
-https://t.freetv.fun/live/zhong-shi-xin-wen-12.m3u8
-#EXTINF:-1 tvg-name="中視新聞",中視新聞
-https://t.freetv.fun/live/zhong-shi-xin-wen-11.m3u8
-#EXTINF:-1 tvg-name="中視新聞",中視新聞
-https://t.freetv.fun/live/zhong-shi-xin-wen-10.m3u8
-#EXTINF:-1 tvg-name="中視新聞",中視新聞
-https://t.freetv.fun/live/zhong-shi-xin-wen-9.m3u8
+
 
 #EXTINF:-1 tvg-name="台視新聞",台視新聞
 https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
 #EXTINF:-1 tvg-name="台視新聞",台視新聞
 https://t.freetv.fun/live/tai-shi-xin-wen-1-1.m3u8
-#EXTINF:-1 tvg-name="台視新聞",台視新聞
-https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
-#EXTINF:-1 tvg-name="台視新聞",台視新聞
-https://t.freetv.fun/live/tai-shi-xin-wen-3.m3u8
 
 #EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-16.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen-21.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
-https://t.freetv.fun/live/huan-yu-xin-wen-19.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
-https://t.freetv.fun/live/huan-yu-xin-wen-11.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
-https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-11.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
-https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-10.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
-https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-12.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
-https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-19.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
-https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-9.m3u8
+
 
 #EXTINF:-1 tvg-name="東森超視",東森超視
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="東森超視",東森超視
 https://t.freetv.fun/live/dong-sen-chao-shi-34-5.m3u8
-#EXTINF:-1 tvg-name="東森超視",東森超視
-https://t.freetv.fun/live/dong-sen-chao-shi-34.m3u8
-#EXTINF:-1 tvg-name="東森超視",東森超視
-https://t.freetv.fun/live/dong-sen-chao-shi-32-5-1.m3u8
-#EXTINF:-1 tvg-name="東森超視",東森超視
-https://t.freetv.fun/live/dong-sen-chao-shi-36.m3u8
-#EXTINF:-1 tvg-name="東森超視",東森超視
-https://t.freetv.fun/live/dong-sen-chao-shi-37.m3u8
+
 
 #EXTINF:-1 tvg-name="民視新聞",民視新聞
 https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
 #EXTINF:-1 tvg-name="民視新聞",民視新聞
 https://t.freetv.fun/live/min-shi-xin-wen.m3u8
-#EXTINF:-1 tvg-name="民視新聞",民視新聞
-https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
-#EXTINF:-1 tvg-name="民視新聞",民視新聞
-https://t.freetv.fun/live/min-shi-xin-wen-2.m3u8
-#EXTINF:-1 tvg-name="民視新聞",民視新聞
-https://t.freetv.fun/live/min-shi-xin-wen-3.m3u8
+
 
 #EXTINF:-1 tvg-name="臺視新聞",臺視新聞
 https://t.freetv.fun/live/tai-shi-xin-wen.m3u8
@@ -194,7 +137,58 @@ https://t.freetv.fun/live/tai-shi-xin-wen-1-2.m3u8
 #EXTINF:-1 tvg-name="臺視新聞",臺視新聞
 https://t.freetv.fun/live/tai-shi-xin-wen-2-1.m3u8
 
+#EXTINF:-1 group-title="国际",Babes
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="国际",Brazzers
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="国际",Extasy
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="国际",Erox
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="国际",Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="国际",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8  
+#EXTINF:-1 group-title="国际",Leo HD
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="国际",Reality Kings
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="国际",Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="XXXCartoons.de" tvg-logo="https://i.imgur.com/kNYY78z.png" group-title="Animation;XXX",XXX Cartoons (520p)
+http://144.76.58.245:2307/cartoon/index.m3u8
 
+
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",东热01
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",东热02
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",东热03
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",东热04
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",一本00
+https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",二本01
+https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",三本02
+https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",一本03
+http://live.redtraffic.xyz:80/bigass.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",二本04
+http://live.redtraffic.xyz:80/blowjob.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",欧美01
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",欧美02
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",松视1
+http://live.redtraffic.xyz:80/fetish.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",松视2
+http://live.redtraffic.xyz:80/bigdick.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",玩美台
+http://live.redtraffic.xyz:80/pov.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="" group-title="XXX",限制级
+http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
 
 
 
