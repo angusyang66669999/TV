@@ -5,12 +5,20 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1,tvg-name="BBC World News",BBC World News
-http://origin2.live.web.tv.streamprovider.net/streams/61fbfc6d840110226aa9127d5edfc2bb/index.m3u8
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 
 #EXTINF:-1,tvg-name="CNN International",CNN International
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/index.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
-#EXTINF:-1,tvg-name="Bloomberg TV Europe",Bloomberg TV Europe
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,tvg-name="France24 EN",France24 EN
+http://static.france24.com/live/F24_EN_LO_HLS/live.m3u8
 
+#EXTINF:-1,tvg-name="DW News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1,tvg-name="NHK World TV",NHK World TV
+https://nhkworld-prod.global.ssl.fastly.net/live/live_english/index.m3u8
 
