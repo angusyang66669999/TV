@@ -1,6 +1,7 @@
 {
   "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/spider.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "notice": "✨ 欢迎使用 Angus 的私人影院！资源已更新，请尽情享受影音时光 🎬",
   "sites": [
     {
       "key": "liangzi_vod",
@@ -117,4 +118,3 @@
     }
   ]
 }
-
