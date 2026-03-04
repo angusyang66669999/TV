@@ -1,0 +1,31 @@
+{
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/spider.jar",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "sites": [
+    {"key": "liangzi","name": "杏吧资源","type": 1,"api": "https://xingba111.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+    {"key": "feifan","name": "幸资源","type": 1,"api": "https://xzybb1.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+    {"key": "kuaiche","name": "香蕉资源","type": 1,"api": "https://www.xiangjiaozyw.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+    {"key": "baidu","name": "番茄资源","type": 1,"api": "https://fqzy.me//api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+    {"key": "wolong","name": "草批资源","type": 1,"api": "https://www.saobi2.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+    {"key": "suoni","name": "桃花资源","type": 1,"api": "https://thzy1.me/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+    {"key": "yinghua","name": "优优资源","type": 1,"api": "https://www.yyzywcj.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+    {"key": "jinying","name": "CK伦理资源","type": 1,"api": "https://ckzy.me/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+    {"key": "jinying","name": "豆豆资源","type": 1,"api": "https://api.douapi.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+    {"key": "jinying","name": "色猫资源","type": 1,"api": "https://caiji.semaozy.net/inc/apijson_vod.php","searchable": 1,"quickSearch": 1},
+    {"key": "jinying","name": "番号资源","type": 1,"api": "http://fhapi9.com/api.php/provide/vod/at/json/","searchable": 1,"quickSearch": 1},
+    {"key": "push_agent","name": "🧲 磁力推送","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"filterable": 0}
+  ],
+  "parses": [
+    {"name": "解析聚合","type": 3,"url": "Web"},
+    {"name": "全能解析1","type": 1,"url": "https://jx.777jiexi.com/player/?url="},
+    {"name": "全能解析2","type": 1,"url": "https://jx.jsonplayer.com/player/?url="}
+  ],
+  "lives": [
+    {
+      "name": "国内直播",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FanMingming/live/main/tv/m3u/ipv6.m3u",
+      "playerType": 1
+    }
+  ]
+}
