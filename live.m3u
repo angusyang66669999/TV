@@ -1,132 +1,193 @@
 #EXTM3U
-#EXTINF:-1,tvg-name="Al Jazeera English",Al Jazeera English
+
+#EXTINF:-1 tvg-name="Al Jazeera English",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English",Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English",Al Jazeera English
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1,tvg-name="BBC World News",BBC World News
+#EXTINF:-1 tvg-name="BBC World News",BBC World News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-name="BBC World News",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 
-#EXTINF:-1,tvg-name="CNN International",CNN International
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/cnn-fast.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/cnn-fast-1.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/cnn-fast-2.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/cnn-int.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/cnn-int-1.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/cnn-1.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/cnn-int-2.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/cnn-3.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/cnn-4.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/cnn-5.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/cnn-6.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/cnn-7.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/acnn.m3u8
+#EXTINF:-1 tvg-name="CNN International",CNN International
 https://t.freetv.fun/live/acnn-480p.m3u8
-https://t.freetv.fun/live/cbc-news-international.m3u8
-https://t.freetv.fun/live/racer-international.m3u8
-https://t.freetv.fun/live/clan-internacional.m3u8
-https://t.freetv.fun/live/tastemade-international-1-1.m3u8
 
-#EXTINF:-1,tvg-name="CNBC EN",France24 EN
+#EXTINF:-1 tvg-name="CNBC EN",CNBC EN
 https://t.freetv.fun/live/cnbc-asia.m3u8
+#EXTINF:-1 tvg-name="CNBC EN",CNBC EN
 https://t.freetv.fun/live/cnbc-asiacai-jing-5.m3u8
+#EXTINF:-1 tvg-name="CNBC EN",CNBC EN
 https://t.freetv.fun/live/cnbc.m3u8
+#EXTINF:-1 tvg-name="CNBC EN",CNBC EN
 https://t.freetv.fun/live/cnbc-tv18.m3u8
 
-#EXTINF:-1,tvg-name="Bloomberg",DW News
+#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
 https://t.freetv.fun/live/bloomberg-ht-1.m3u8
+#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
 https://t.freetv.fun/live/bloomberg.m3u8
+#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
 https://t.freetv.fun/live/bloomberg-tv-plus.m3u8
+#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
 https://t.freetv.fun/live/bloomberg-tv-plus-1.m3u8
+#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
 https://t.freetv.fun/live/bloomberg-tv-europe.m3u8
+#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
 https://t.freetv.fun/live/bloomberg-originals.m3u8
+#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
 https://t.freetv.fun/live/bloomberg-tv-us.m3u8
+#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
 https://t.freetv.fun/live/bloomberg-ht-2.m3u8
+#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
 https://t.freetv.fun/live/ch-ng-bloomberg.m3u8
+#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
 https://t.freetv.fun/live/bloomberg-tv-plus-1080p.m3u8
+#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
 https://t.freetv.fun/live/bloomberg-tv-europe-720p.m3u8
+#EXTINF:-1 tvg-name="Bloomberg",Bloomberg
 https://t.freetv.fun/live/bloomberg-tv-asia-720p.m3u8
-https://t.freetv.fun/live/bloomberg-fr.m3u8
-https://t.freetv.fun/live/bloomberg-originals-1.m3u8
-https://t.freetv.fun/live/bloomberg-originals-2.m3u8
-https://t.freetv.fun/live/bloomberg-originals-3.m3u8
-https://t.freetv.fun/live/bloomberg-originals-4.m3u8
-https://t.freetv.fun/live/bloomberg-tv.m3u8
-https://t.freetv.fun/live/bloomberg-tv-1.m3u8
-https://t.freetv.fun/live/bloomberg-tv-plus-2.m3u8
-https://t.freetv.fun/live/bloomberg-tv-6.m3u8
-https://t.freetv.fun/live/bloomberg-tv-australia-270p.m3u8
-https://t.freetv.fun/live/bloomberg-tv-plus-3.m3u8
 
-#EXTINF:-1,tvg-name="凤凰资讯",NHK World TV
+#EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 
-#EXTINF:-1,tvg-name="三立新闻",NHK World TV
+#EXTINF:-1 tvg-name="三立新闻",三立新闻
 https://t.freetv.fun/live/san-li-inews-10.m3u8
+#EXTINF:-1 tvg-name="三立新闻",三立新闻
 https://t.freetv.fun/live/san-li-inews-11.m3u8
+#EXTINF:-1 tvg-name="三立新闻",三立新闻
 https://t.freetv.fun/live/san-li-inews-12.m3u8
+#EXTINF:-1 tvg-name="三立新闻",三立新闻
 https://t.freetv.fun/live/san-li-inews-13.m3u8
+#EXTINF:-1 tvg-name="三立新闻",三立新闻
 https://t.freetv.fun/live/san-li-inews-9.m3u8
+#EXTINF:-1 tvg-name="三立新闻",三立新闻
 https://t.freetv.fun/live/san-li-inews-8.m3u8
+#EXTINF:-1 tvg-name="三立新闻",三立新闻
 https://t.freetv.fun/live/san-li-inews-7.m3u8
+#EXTINF:-1 tvg-name="三立新闻",三立新闻
 https://t.freetv.fun/live/san-li-inews-6.m3u8
+#EXTINF:-1 tvg-name="三立新闻",三立新闻
 https://t.freetv.fun/live/san-li-inews-5.m3u8
 
-#EXTINF:-1,tvg-name="中天新聞",NHK World TV
+#EXTINF:-1 tvg-name="中天新聞",中天新聞
 rtmp://123.156.165.47/live/yifatv-ztxw01
+#EXTINF:-1 tvg-name="中天新聞",中天新聞
 rtmp://123.156.165.47/live/yifatv-ztxw02
+#EXTINF:-1 tvg-name="中天新聞",中天新聞
 https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
+#EXTINF:-1 tvg-name="中天新聞",中天新聞
 https://t.freetv.fun/live/zhong-tian-xin-wen-20.m3u8
 
-#EXTINF:-1,tvg-name="中視新聞",NHK World TV
+#EXTINF:-1 tvg-name="中視新聞",中視新聞
 https://t.freetv.fun/live/zhong-shi-xin-wen.m3u8
+#EXTINF:-1 tvg-name="中視新聞",中視新聞
 https://t.freetv.fun/live/zhong-shi-xin-wen-1.m3u8
+#EXTINF:-1 tvg-name="中視新聞",中視新聞
 https://t.freetv.fun/live/zhong-shi-xin-wen-1-1.m3u8
+#EXTINF:-1 tvg-name="中視新聞",中視新聞
 https://t.freetv.fun/live/zhong-shi-xin-wen-12.m3u8
+#EXTINF:-1 tvg-name="中視新聞",中視新聞
 https://t.freetv.fun/live/zhong-shi-xin-wen-11.m3u8
+#EXTINF:-1 tvg-name="中視新聞",中視新聞
 https://t.freetv.fun/live/zhong-shi-xin-wen-10.m3u8
+#EXTINF:-1 tvg-name="中視新聞",中視新聞
 https://t.freetv.fun/live/zhong-shi-xin-wen-9.m3u8
 
-#EXTINF:-1,tvg-name="台視新聞",NHK World TV
+#EXTINF:-1 tvg-name="台視新聞",台視新聞
 https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
+#EXTINF:-1 tvg-name="台視新聞",台視新聞
 https://t.freetv.fun/live/tai-shi-xin-wen-1-1.m3u8
+#EXTINF:-1 tvg-name="台視新聞",台視新聞
 https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
+#EXTINF:-1 tvg-name="台視新聞",台視新聞
 https://t.freetv.fun/live/tai-shi-xin-wen-3.m3u8
 
-#EXTINF:-1,tvg-name="寰宇新聞",NHK World TV
+#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-16.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen-21.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen-19.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen-11.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-11.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-10.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-12.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-19.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞",寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-9.m3u8
 
-#EXTINF:-1,tvg-name="東森超視",NHK World TV
+#EXTINF:-1 tvg-name="東森超視",東森超視
 rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name="東森超視",東森超視
 https://t.freetv.fun/live/dong-sen-chao-shi-34-5.m3u8
+#EXTINF:-1 tvg-name="東森超視",東森超視
 https://t.freetv.fun/live/dong-sen-chao-shi-34.m3u8
+#EXTINF:-1 tvg-name="東森超視",東森超視
 https://t.freetv.fun/live/dong-sen-chao-shi-32-5-1.m3u8
+#EXTINF:-1 tvg-name="東森超視",東森超視
 https://t.freetv.fun/live/dong-sen-chao-shi-36.m3u8
+#EXTINF:-1 tvg-name="東森超視",東森超視
 https://t.freetv.fun/live/dong-sen-chao-shi-37.m3u8
 
-#EXTINF:-1,tvg-name="民視新聞",NHK World TV
+#EXTINF:-1 tvg-name="民視新聞",民視新聞
 https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
+#EXTINF:-1 tvg-name="民視新聞",民視新聞
 https://t.freetv.fun/live/min-shi-xin-wen.m3u8
+#EXTINF:-1 tvg-name="民視新聞",民視新聞
 https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
+#EXTINF:-1 tvg-name="民視新聞",民視新聞
 https://t.freetv.fun/live/min-shi-xin-wen-2.m3u8
+#EXTINF:-1 tvg-name="民視新聞",民視新聞
 https://t.freetv.fun/live/min-shi-xin-wen-3.m3u8
 
-#EXTINF:-1,tvg-name="臺視新聞",NHK World TV
+#EXTINF:-1 tvg-name="臺視新聞",臺視新聞
 https://t.freetv.fun/live/tai-shi-xin-wen.m3u8
+#EXTINF:-1 tvg-name="臺視新聞",臺視新聞
 https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
+#EXTINF:-1 tvg-name="臺視新聞",臺視新聞
 https://t.freetv.fun/live/tai-shi-xin-wen-1-2.m3u8
+#EXTINF:-1 tvg-name="臺視新聞",臺視新聞
 https://t.freetv.fun/live/tai-shi-xin-wen-2-1.m3u8
+
 
