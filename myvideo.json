@@ -2,14 +2,111 @@
   "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/spider.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
-    {"key": "liangzi","name": "✨ 量子资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/","searchable": 1,"quickSearch": 1},
-    {"key": "feifan","name": "🔥 非凡资源","type": 1,"api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/","searchable": 1,"quickSearch": 1},
-    {"key": "kuaiche","name": "🚀 快车资源","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/","searchable": 1,"quickSearch": 1},
-    {"key": "baidu","name": "🔍 百度资源","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/","searchable": 1,"quickSearch": 1},
-    {"key": "wolong","name": "🐉 卧龙资源","type": 1,"api": "https://collect.wolongzy.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-    {"key": "suoni","name": "🎬 索尼资源","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-    {"key": "yinghua","name": "🌸 樱花动漫","type": 1,"api": "https://m3u8.apilyzy.com/api.php/provide/vod/from/yhm3u8/","searchable": 1,"quickSearch": 1},
-    {"key": "jinying","name": "🦅 金鹰资源","type": 1,"api": "https://jyzyapi.com/api.php/provide/vod/from/jym3u8/","searchable": 1,"quickSearch": 1}
+    {
+      "key": "liangzi_vod",
+      "name": "✨ 量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "feifan_vod",
+      "name": "🔥 非凡资源",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kuaiche_vod",
+      "name": "🚀 快车资源",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "baidu_vod",
+      "name": "🔍 百度资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wolong_vod",
+      "name": "🐉 卧龙资源",
+      "type": 1,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "suoni_vod",
+      "name": "🎬 索尼资源",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yinghua_vod",
+      "name": "🌸 樱花动漫",
+      "type": 1,
+      "api": "https://m3u8.apilyzy.com/api.php/provide/vod/from/yhm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jinying_vod",
+      "name": "🦅 金鹰资源",
+      "type": 1,
+      "api": "https://jyzyapi.com/api.php/provide/vod/from/jym3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "push_agent",
+      "name": "🧲 磁力推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    }
+  ],
+  "parses": [
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "全能解析1",
+      "type": 1,
+      "url": "https://jx.777jiexi.com/player/?url=",
+      "ext": { "flag": [ "qq", "mgtv", "qiyi", "youku", "letv", "sohu", "tudou" ] }
+    },
+    {
+      "name": "全能解析2",
+      "type": 1,
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "ext": { "flag": [ "qq", "mgtv", "qiyi", "youku", "letv", "sohu", "tudou" ] }
+    },
+    {
+      "name": "全能解析3",
+      "type": 1,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    }
   ],
   "lives": [
     {
@@ -20,3 +117,4 @@
     }
   ]
 }
+
