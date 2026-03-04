@@ -102,11 +102,6 @@
       "type": 1,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": { "flag": [ "qq", "mgtv", "qiyi", "youku", "letv", "sohu", "tudou" ] }
-    },
-    {
-      "name": "全能解析3",
-      "type": 1,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
     }
   ],
   "lives": [
