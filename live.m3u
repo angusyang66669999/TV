@@ -1,3 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="测试",测试频道
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1,tvg-name="Al Jazeera English",Al Jazeera English
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+
+#EXTINF:-1,tvg-name="BBC World News",BBC World News
+http://origin2.live.web.tv.streamprovider.net/streams/61fbfc6d840110226aa9127d5edfc2bb/index.m3u8
+
+#EXTINF:-1,tvg-name="CNN International",CNN International
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/index.m3u8
+
+#EXTINF:-1,tvg-name="Bloomberg TV Europe",Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
