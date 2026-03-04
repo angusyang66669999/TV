@@ -12,13 +12,57 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+https://t.freetv.fun/live/cnn-fast.m3u8
+https://t.freetv.fun/live/cnn-fast-1.m3u8
+https://t.freetv.fun/live/cnn-fast-2.m3u8
+https://t.freetv.fun/live/cnn-int.m3u8
+https://t.freetv.fun/live/cnn-int-1.m3u8
+https://t.freetv.fun/live/cnn-1.m3u8
+https://t.freetv.fun/live/cnn-int-2.m3u8
+https://t.freetv.fun/live/cnn-3.m3u8
+https://t.freetv.fun/live/cnn-4.m3u8
+https://t.freetv.fun/live/cnn-5.m3u8
+https://t.freetv.fun/live/cnn-6.m3u8
+https://t.freetv.fun/live/cnn-7.m3u8
+https://t.freetv.fun/live/acnn.m3u8
+https://t.freetv.fun/live/acnn-480p.m3u8
+https://t.freetv.fun/live/cbc-news-international.m3u8
+https://t.freetv.fun/live/racer-international.m3u8
+https://t.freetv.fun/live/clan-internacional.m3u8
+https://t.freetv.fun/live/tastemade-international-1-1.m3u8
 
-#EXTINF:-1,tvg-name="France24 EN",France24 EN
-http://static.france24.com/live/F24_EN_LO_HLS/live.m3u8
+#EXTINF:-1,tvg-name="CNBC EN",France24 EN
+https://t.freetv.fun/live/cnbc-asia.m3u8
+https://t.freetv.fun/live/cnbc-asiacai-jing-5.m3u8
+https://t.freetv.fun/live/cnbc.m3u8
+https://t.freetv.fun/live/cnbc-tv18.m3u8
 
-#EXTINF:-1,tvg-name="DW News",DW News
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,tvg-name="Bloomberg",DW News
+https://t.freetv.fun/live/bloomberg-ht-1.m3u8
+https://t.freetv.fun/live/bloomberg.m3u8
+https://t.freetv.fun/live/bloomberg-tv-plus.m3u8
+https://t.freetv.fun/live/bloomberg-tv-plus-1.m3u8
+https://t.freetv.fun/live/bloomberg-tv-europe.m3u8
+https://t.freetv.fun/live/bloomberg-originals.m3u8
+https://t.freetv.fun/live/bloomberg-tv-us.m3u8
+https://t.freetv.fun/live/bloomberg-ht-2.m3u8
+https://t.freetv.fun/live/ch-ng-bloomberg.m3u8
+https://t.freetv.fun/live/bloomberg-tv-plus-1080p.m3u8
+https://t.freetv.fun/live/bloomberg-tv-europe-720p.m3u8
+https://t.freetv.fun/live/bloomberg-tv-asia-720p.m3u8
+https://t.freetv.fun/live/bloomberg-fr.m3u8
+https://t.freetv.fun/live/bloomberg-originals-1.m3u8
+https://t.freetv.fun/live/bloomberg-originals-2.m3u8
+https://t.freetv.fun/live/bloomberg-originals-3.m3u8
+https://t.freetv.fun/live/bloomberg-originals-4.m3u8
+https://t.freetv.fun/live/bloomberg-tv.m3u8
+https://t.freetv.fun/live/bloomberg-tv-1.m3u8
+https://t.freetv.fun/live/bloomberg-tv-plus-2.m3u8
+https://t.freetv.fun/live/bloomberg-tv-6.m3u8
+https://t.freetv.fun/live/bloomberg-tv-australia-270p.m3u8
+https://t.freetv.fun/live/bloomberg-tv-plus-3.m3u8
 
 #EXTINF:-1,tvg-name="NHK World TV",NHK World TV
 https://nhkworld-prod.global.ssl.fastly.net/live/live_english/index.m3u8
+
 
