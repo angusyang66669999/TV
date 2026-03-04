@@ -66,4 +66,67 @@ https://t.freetv.fun/live/bloomberg-tv-plus-3.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 
+#EXTINF:-1,tvg-name="三立新闻",NHK World TV
+https://t.freetv.fun/live/san-li-inews-10.m3u8
+https://t.freetv.fun/live/san-li-inews-11.m3u8
+https://t.freetv.fun/live/san-li-inews-12.m3u8
+https://t.freetv.fun/live/san-li-inews-13.m3u8
+https://t.freetv.fun/live/san-li-inews-9.m3u8
+https://t.freetv.fun/live/san-li-inews-8.m3u8
+https://t.freetv.fun/live/san-li-inews-7.m3u8
+https://t.freetv.fun/live/san-li-inews-6.m3u8
+https://t.freetv.fun/live/san-li-inews-5.m3u8
+
+#EXTINF:-1,tvg-name="中天新聞",NHK World TV
+rtmp://123.156.165.47/live/yifatv-ztxw01
+rtmp://123.156.165.47/live/yifatv-ztxw02
+https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
+https://t.freetv.fun/live/zhong-tian-xin-wen-20.m3u8
+
+#EXTINF:-1,tvg-name="中視新聞",NHK World TV
+https://t.freetv.fun/live/zhong-shi-xin-wen.m3u8
+https://t.freetv.fun/live/zhong-shi-xin-wen-1.m3u8
+https://t.freetv.fun/live/zhong-shi-xin-wen-1-1.m3u8
+https://t.freetv.fun/live/zhong-shi-xin-wen-12.m3u8
+https://t.freetv.fun/live/zhong-shi-xin-wen-11.m3u8
+https://t.freetv.fun/live/zhong-shi-xin-wen-10.m3u8
+https://t.freetv.fun/live/zhong-shi-xin-wen-9.m3u8
+
+#EXTINF:-1,tvg-name="台視新聞",NHK World TV
+https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
+https://t.freetv.fun/live/tai-shi-xin-wen-1-1.m3u8
+https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
+https://t.freetv.fun/live/tai-shi-xin-wen-3.m3u8
+
+#EXTINF:-1,tvg-name="寰宇新聞",NHK World TV
+https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-16.m3u8
+https://t.freetv.fun/live/huan-yu-xin-wen-21.m3u8
+https://t.freetv.fun/live/huan-yu-xin-wen-19.m3u8
+https://t.freetv.fun/live/huan-yu-xin-wen-11.m3u8
+https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-11.m3u8
+https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-10.m3u8
+https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-12.m3u8
+https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-19.m3u8
+https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan-9.m3u8
+
+#EXTINF:-1,tvg-name="東森超視",NHK World TV
+rtmp://f13h.mine.nu/sat/tv331
+https://t.freetv.fun/live/dong-sen-chao-shi-34-5.m3u8
+https://t.freetv.fun/live/dong-sen-chao-shi-34.m3u8
+https://t.freetv.fun/live/dong-sen-chao-shi-32-5-1.m3u8
+https://t.freetv.fun/live/dong-sen-chao-shi-36.m3u8
+https://t.freetv.fun/live/dong-sen-chao-shi-37.m3u8
+
+#EXTINF:-1,tvg-name="民視新聞",NHK World TV
+https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
+https://t.freetv.fun/live/min-shi-xin-wen.m3u8
+https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
+https://t.freetv.fun/live/min-shi-xin-wen-2.m3u8
+https://t.freetv.fun/live/min-shi-xin-wen-3.m3u8
+
+#EXTINF:-1,tvg-name="臺視新聞",NHK World TV
+https://t.freetv.fun/live/tai-shi-xin-wen.m3u8
+https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
+https://t.freetv.fun/live/tai-shi-xin-wen-1-2.m3u8
+https://t.freetv.fun/live/tai-shi-xin-wen-2-1.m3u8
 
