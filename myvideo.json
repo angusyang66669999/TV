@@ -1,14 +1,26 @@
 {
-  "notice": "🚀 Angus 影院极速版 | 核心稳定模式",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/spider.jar",
+  "wallpaper": "https://api.isoyu.com/bing_images.php",
+  "notice": "🚀 <font color='#00FF7F'><b>Angus 极速稳定版</b></font> | 已优化首页加载逻辑 🎬",
   "sites": [
     {
+      "key": "csp_AppYsV2_iyouhun",
+      "name": "🎬 极速首页 (带评分/海报)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.iyouhun.com/json/jike.json",
+      "group": "📊 推荐首页"
+    },
+    {
       "key": "guangsu_vod",
-      "name": "🚀 光速资源 (推荐首页)",
+      "name": "🚀 光速资源",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 1
     },
     {
       "key": "hongniu_vod",
