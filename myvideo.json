@@ -2,23 +2,14 @@
   "notice": "🚀 <font color='#00FF7F'><b>Angus 4K 直连版</b></font> | 联通专线，稳定不闪退 🎬",
   "sites": [
     {
-      "key": "4k_pika",
-      "name": "💎 4K 核心 (带评分/海报)",
-      "type": 1,
-      "api": "https://www.4kvm.org/api.php/provide/vod/",
+      "key": "csp_AppYsV2_lite",
+      "name": "🎬 影院首页 (低内存/带评分)",
+      "type": 3,
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "group": "🌟 极速首页"
-    },
-    {
-      "key": "funiu_vod",
-      "name": "🐂 飞牛资源 (带评分)",
-      "type": 1,
-      "api": "https://www.feiniuzi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "group": "🌟 极速首页"
+      "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/json/jike.json"
     },
     {
       "key": "guangsu_vod",
@@ -96,3 +87,4 @@
     }
   ]
 }
+
