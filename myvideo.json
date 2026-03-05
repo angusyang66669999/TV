@@ -1,15 +1,15 @@
 {
-  "notice": "🚀 <font color='#00FF7F'><b>Angus 4K 直连版</b></font> | 联通专线，稳定不闪退 🎬",
+  "notice": "🚀 <font color='#00FF7F'><b>Angus 核心定制版</b></font> | 8 大直连站已就绪 🎬",
   "sites": [
     {
-      "key": "csp_AppYsV2_lite",
-      "name": "🎬 影院首页 (低内存/带评分)",
-      "type": 3,
-      "api": "csp_AppYsV2",
+      "key": "dbzy_vod",
+      "name": "🎬 豆瓣资源 (首页/评分)",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/json/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/json/jike.json"
+      "group": "📊 推荐首页"
     },
     {
       "key": "guangsu_vod",
@@ -87,4 +87,3 @@
     }
   ]
 }
-
