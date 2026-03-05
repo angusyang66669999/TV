@@ -1,8 +1,38 @@
 {
   "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/spider.jar",
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "notice": "✨ 欢迎使用 Angus 的私人影院！资源已更新，请尽情享受影音时光 🎬",
+  "wallpaper": "https://api.isoyu.com/bing_images.php",
+  "notice": "✨ <font color='#FFD700'><b>Angus 私人影院</b></font> | 核心线路已更新，红牛资源已加入 🎬",
   "sites": [
+    {
+      "key": "hongniu_vod",
+      "name": "🐂 红牛资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "group": "🚀 核心线路"
+    },
+    {
+      "key": "guangsu_vod",
+      "name": "🚀 光速资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "group": "🚀 核心线路"
+    },
+    {
+      "key": "maotai_vod",
+      "name": "🍶 茅台资源",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "group": "🚀 核心线路"
+    },
     {
       "key": "liangzi_vod",
       "name": "✨ 量子资源",
@@ -10,7 +40,8 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "group": "🚀 核心线路"
     },
     {
       "key": "feifan_vod",
@@ -19,7 +50,8 @@
       "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "group": "🚀 核心线路"
     },
     {
       "key": "wolong_vod",
@@ -28,7 +60,8 @@
       "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "group": "🚀 核心线路"
     },
     {
       "key": "suoni_vod",
@@ -37,8 +70,9 @@
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },    
+      "filterable": 1,
+      "group": "🚀 核心线路"
+    },
     {
       "key": "push_agent",
       "name": "🧲 磁力推送",
@@ -46,7 +80,8 @@
       "api": "csp_Push",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "group": "🛠️ 辅助功能"
     }
   ],
   "parses": [
@@ -77,4 +112,3 @@
     }
   ]
 }
-
