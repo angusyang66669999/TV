@@ -1,5 +1,5 @@
 {
-  "notice": "🚀 <font color='#00FF7F'><b>Angus 4K 直连版</b></font> | 自带豆瓣评分，联通秒开 🎬",
+  "notice": "🚀 <font color='#00FF7F'><b>Angus 4K 直连版</b></font> | 联通专线，稳定不闪退 🎬",
   "sites": [
     {
       "key": "4k_pika",
@@ -91,9 +91,8 @@
     {
       "name": "国内直播",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FanMingming/live/main/tv/m3u/ipv6.m3u",
+      "url": "https://raw.gitmirror.com/FanMingming/live/main/tv/m3u/ipv6.m3u",
       "playerType": 1
     }
   ]
 }
-
