@@ -1,25 +1,14 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/spider.jar",
-  "notice": "🚀 <font color='#00FF7F'><b>Angus 极速影院</b></font> | 已开启低内存模式，防止闪退 🎬",
+  "notice": "🚀 <font color='#00FF7F'><b>Angus 兼容版影院</b></font> | 已开启核心极速模式，彻底解决闪退 🎬",
   "sites": [
     {
-      "key": "csp_AppYsV2_jike",
-      "name": "⚡ 极速聚合 (低内存模式)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jike.json",
-      "group": "📊 推荐首页"
-    },
-    {
       "key": "guangsu_vod",
-      "name": "🚀 光速资源",
+      "name": "🚀 光速资源 (最稳首页)",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1,
       "group": "🌟 核心线路"
     },
     {
@@ -55,8 +44,7 @@
       "type": 1,
       "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
-      "quickSearch": 1,
-      "group": "🚀 备用线路"
+      "group": "🌟 核心线路"
     },
     {
       "key": "wolong_vod",
@@ -64,8 +52,7 @@
       "type": 1,
       "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
-      "group": "🚀 备用线路"
+      "group": "🌟 核心线路"
     },
     {
       "key": "suoni_vod",
@@ -74,16 +61,7 @@
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "group": "🚀 备用线路"
-    },
-    {
-      "key": "PanSearch",
-      "name": "🔍 云盘聚合",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "group": "☁️ 网盘资源"
+      "group": "🌟 核心线路"
     }
   ],
   "parses": [
@@ -98,4 +76,3 @@
     }
   ]
 }
-
