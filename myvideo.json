@@ -1,17 +1,28 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/spider.jar",
+  "spider": "https://www.iyouhun.com/jar/custom_spider.jar",
   "wallpaper": "https://api.isoyu.com/bing_images.php",
-  "notice": "🚀 <font color='#00FF7F'><b>Angus 极速稳定版</b></font> | 已优化首页加载逻辑 🎬",
+  "notice": "🚀 <font color='#00FF7F'><b>Angus 极速版</b></font> | 仿游魂稳定架构 🎬",
   "sites": [
     {
       "key": "csp_AppYsV2_iyouhun",
-      "name": "🎬 极速首页 (带评分/海报)",
+      "name": "🎬 游魂聚合 (稳定首页)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.iyouhun.com/json/jike.json",
+      "group": "📊 推荐首页"
+    },
+    {
+      "key": "csp_AppYsV2_360",
+      "name": "🔥 360聚合 (备用首页)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.iyouhun.com/json/360.json",
       "group": "📊 推荐首页"
     },
     {
