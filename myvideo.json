@@ -4,6 +4,16 @@
   "notice": "✨ <font color='#FFD700'><b>Angus 私人影院</b></font> | 核心线路已更新，红牛资源已加入 🎬",
   "sites": [
     {
+      "key": "豆瓣",
+      "name": "🎬 豆瓣热映 (推荐)",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "group": "📊 数据美化"
+    },
+    {
       "key": "hongniu_vod",
       "name": "🐂 红牛资源",
       "type": 1,
@@ -112,3 +122,4 @@
     }
   ]
 }
+
