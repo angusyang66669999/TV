@@ -1,7 +1,7 @@
 {
   "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
   "wallpaper": "https://api.isoyu.com/bing_images.php",
-  "notice": "🚀 <font color='#00FF7F'><b>Angus 极速影院</b></font> | 已激活豆瓣首页与网盘聚合搜索 🎬",
+  "notice": "🚀 <font color='#00FF7F'><b>Angus 极速影院</b></font> | 已开启“按需加载”模式 🎬",
   "sites": [
     {
       "key": "豆瓣",
@@ -85,13 +85,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "group": "🚀 备用线路"
-    },
-    {
-      "key": "push_agent",
-      "name": "🧲 磁力推送",
-      "type": 3,
-      "api": "csp_Push",
-      "group": "🛠️ 辅助功能"
     }
   ],
   "parses": [
