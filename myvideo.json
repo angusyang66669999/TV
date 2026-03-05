@@ -1,28 +1,16 @@
 {
-  "spider": "https://www.iyouhun.com/jar/custom_spider.jar",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/spider.jar",
   "wallpaper": "https://api.isoyu.com/bing_images.php",
-  "notice": "🚀 <font color='#00FF7F'><b>Angus 极速版</b></font> | 仿游魂稳定架构 🎬",
+  "notice": "🚀 <font color='#00FF7F'><b>Angus 专属影院</b></font> | 极速海报与豆瓣评分已就绪 🎬",
   "sites": [
     {
-      "key": "csp_AppYsV2_iyouhun",
-      "name": "🎬 游魂聚合 (稳定首页)",
+      "key": "csp_Libvio",
+      "name": "🎬 影院首页 (自带评分/海报)",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Libvio",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.iyouhun.com/json/jike.json",
-      "group": "📊 推荐首页"
-    },
-    {
-      "key": "csp_AppYsV2_360",
-      "name": "🔥 360聚合 (备用首页)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.iyouhun.com/json/360.json",
       "group": "📊 推荐首页"
     },
     {
@@ -31,7 +19,8 @@
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "group": "🌟 核心线路"
     },
     {
       "key": "hongniu_vod",
@@ -39,7 +28,8 @@
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/json/",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "group": "🌟 核心线路"
     },
     {
       "key": "maotai_vod",
@@ -47,7 +37,8 @@
       "type": 1,
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/json/",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "group": "🌟 核心线路"
     },
     {
       "key": "liangzi_vod",
@@ -55,7 +46,8 @@
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "group": "🌟 核心线路"
     },
     {
       "key": "feifan_vod",
@@ -63,7 +55,8 @@
       "type": 1,
       "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "group": "🌟 核心线路"
     },
     {
       "key": "wolong_vod",
@@ -71,7 +64,8 @@
       "type": 1,
       "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "group": "🌟 核心线路"
     },
     {
       "key": "suoni_vod",
@@ -79,7 +73,8 @@
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "group": "🌟 核心线路"
     }
   ],
   "parses": [
