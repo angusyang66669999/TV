@@ -1,14 +1,25 @@
 {
-  "notice": "🚀 <font color='#00FF7F'><b>Angus 兼容版影院</b></font> | 已开启核心极速模式，彻底解决闪退 🎬",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/spider.jar",
+  "wallpaper": "https://api.isoyu.com/bing_images.php",
+  "notice": "🚀 <font color='#00FF7F'><b>Angus 专属影院</b></font> | 极速海报与豆瓣评分已就绪 🎬",
   "sites": [
     {
+      "key": "csp_Libvio",
+      "name": "🎬 影院首页 (自带评分/海报)",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "group": "📊 推荐首页"
+    },
+    {
       "key": "guangsu_vod",
-      "name": "🚀 光速资源 (最稳首页)",
+      "name": "🚀 光速资源",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
       "group": "🌟 核心线路"
     },
     {
@@ -44,6 +55,7 @@
       "type": 1,
       "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
+      "quickSearch": 1,
       "group": "🌟 核心线路"
     },
     {
@@ -52,6 +64,7 @@
       "type": 1,
       "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
       "searchable": 1,
+      "quickSearch": 1,
       "group": "🌟 核心线路"
     },
     {
