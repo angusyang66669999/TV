@@ -1,18 +1,24 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/spider.jar",
-  "wallpaper": "https://api.isoyu.com/bing_images.php",
-  "notice": "🎬 <font color='#00FF7F'><b>Angus 影视仓专用版</b></font> | 已优化首页加载逻辑 🚀",
+  "notice": "🚀 <font color='#00FF7F'><b>Angus 4K 直连版</b></font> | 自带豆瓣评分，联通秒开 🎬",
   "sites": [
     {
-      "key": "csp_AppYsV2_jike",
-      "name": "🎬 影院首页 (带海报/评分)",
-      "type": 3,
-      "api": "csp_AppYsV2",
+      "key": "4k_pika",
+      "name": "💎 4K 核心 (带评分/海报)",
+      "type": 1,
+      "api": "https://www.4kvm.org/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jike.json",
-      "group": "📊 推荐首页"
+      "group": "🌟 极速首页"
+    },
+    {
+      "key": "funiu_vod",
+      "name": "🐂 飞牛资源 (带评分)",
+      "type": 1,
+      "api": "https://www.feiniuzi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "🌟 极速首页"
     },
     {
       "key": "guangsu_vod",
@@ -90,3 +96,4 @@
     }
   ]
 }
+
