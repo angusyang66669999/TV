@@ -1,26 +1,18 @@
 {
   "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/spider.jar",
   "wallpaper": "https://api.isoyu.com/bing_images.php",
-  "notice": "🚀 <font color='#00FF7F'><b>Angus 极速影院</b></font> | 已激活全网 7 大资源站 + 极速聚合首页 🎬",
+  "notice": "🚀 <font color='#00FF7F'><b>Angus 极速影院</b></font> | 已开启低内存模式，防止闪退 🎬",
   "sites": [
     {
-      "key": "Libvio",
-      "name": "🎬 极速聚合 (推荐首页)",
+      "key": "csp_AppYsV2_jike",
+      "name": "⚡ 极速聚合 (低内存模式)",
       "type": 3,
-      "api": "csp_Libvio",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jike.json",
       "group": "📊 推荐首页"
-    },
-    {
-      "key": "PanSearch",
-      "name": "🔍 云盘聚合搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "group": "☁️ 网盘资源"
     },
     {
       "key": "guangsu_vod",
@@ -86,11 +78,13 @@
       "group": "🚀 备用线路"
     },
     {
-      "key": "push_agent",
-      "name": "🧲 磁力推送",
+      "key": "PanSearch",
+      "name": "🔍 云盘聚合",
       "type": 3,
-      "api": "csp_Push",
-      "group": "🛠️ 辅助功能"
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "☁️ 网盘资源"
     }
   ],
   "parses": [
