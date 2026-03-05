@@ -1,7 +1,7 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/spider.jar",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
   "wallpaper": "https://api.isoyu.com/bing_images.php",
-  "notice": "🚀 <font color='#00FF7F'><b>Angus 极速影院</b></font> | 豆瓣首页模式加载中... 🎬",
+  "notice": "🚀 <font color='#00FF7F'><b>Angus 极速影院</b></font> | 已激活豆瓣首页与网盘聚合搜索 🎬",
   "sites": [
     {
       "key": "豆瓣",
@@ -11,7 +11,17 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json",
       "group": "📊 界面美化"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🔍 云盘聚合搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "☁️ 网盘资源"
     },
     {
       "key": "guangsu_vod",
@@ -20,7 +30,6 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
       "group": "🌟 核心线路"
     },
     {
@@ -30,7 +39,6 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/json/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
       "group": "🌟 核心线路"
     },
     {
@@ -40,7 +48,6 @@
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/json/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
       "group": "🌟 核心线路"
     },
     {
@@ -50,8 +57,7 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "group": "🚀 备用线路"
+      "group": "🌟 核心线路"
     },
     {
       "key": "feifan_vod",
@@ -60,11 +66,43 @@
       "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
       "group": "🚀 备用线路"
+    },
+    {
+      "key": "wolong_vod",
+      "name": "🐉 卧龙资源",
+      "type": 1,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "🚀 备用线路"
+    },
+    {
+      "key": "suoni_vod",
+      "name": "🎬 索尼资源",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "group": "🚀 备用线路"
+    },
+    {
+      "key": "push_agent",
+      "name": "🧲 磁力推送",
+      "type": 3,
+      "api": "csp_Push",
+      "group": "🛠️ 辅助功能"
     }
   ],
   "parses": [
     { "name": "解析聚合", "type": 3, "url": "Web" }
+  ],
+  "lives": [
+    {
+      "name": "国内直播",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FanMingming/live/main/tv/m3u/ipv6.m3u",
+      "playerType": 1
+    }
   ]
 }
