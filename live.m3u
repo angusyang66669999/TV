@@ -5,7 +5,7 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English",Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English",Al Jazeera English
-https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English",Al Jazeera English
 https://epg.pw/stream/db814d86b7087eb2db861a406c8b0809a369f6d8a5146389932af3148c0c1091.m3u8
 
@@ -13,6 +13,8 @@ https://epg.pw/stream/db814d86b7087eb2db861a406c8b0809a369f6d8a5146389932af3148c
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-name="BBC World News",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC World News",BBC World News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 
 #EXTINF:-1 tvg-name="CNN International",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -84,17 +86,17 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
 http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
-http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
+https://itv.tvbj.dpdns.org/proxy.php/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
-https://live.catvod.com/live.php?id=phoenixinfo_hd
+https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
 https://live.catvod.com/iptv.php?id=phzx01
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
-https://live.catvod.com/iptv.php?id=phzx02
+http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
-https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixinfo_hd
+https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 tvg-name="三立新闻",三立新闻
 https://t.freetv.fun/live/san-li-inews-10.m3u8
